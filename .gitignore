@@ -1,0 +1,10 @@
+.Add-Content .gitignore ".idea/"
+Add-Content .gitignore ".venv/"
+Add-Content .gitignore "__pycache__/"
+Add-Content .gitignore "*.pyc"
+Add-Content .gitignore ".env"
+# Large model file
+embeddings.pkl
+
+# Large model file
+embeddings.pkl
